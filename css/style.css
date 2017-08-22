@@ -24,6 +24,7 @@ h3 {
 p {
     font-style: italic;
     color: #A9A9A9;
+	text-align: justify;
 }
 
 html, body, #map {
@@ -81,6 +82,7 @@ html, body, #map {
     font: verdana;
     font-style: normal;
     color: #808080;
+	text-align: justify;
 }
 
 .text_description_b {
